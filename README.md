@@ -8,4 +8,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+This is the deployment subheading
+
 ## How to contribute
+
+Now I've added another section
